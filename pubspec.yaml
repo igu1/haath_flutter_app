@@ -1,0 +1,67 @@
+name: disaster_management_app
+description: "Flutter Project For Disaster Management"
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  cloud_firestore: 
+  connectivity_plus: 
+  cupertino_icons: 
+  firebase_core: 
+  firebase_database: 
+  firebase_messaging:
+  flutter:
+    sdk: flutter
+  flutter_config: 
+  flutter_local_notifications:
+  font_awesome_flutter: 
+  get: 
+  google_fonts: 
+  http: 
+  intl_phone_field: 
+  lottie: 
+  material_segmented_control: 
+  permission_handler: 
+  shared_preferences: 
+  telephony: 
+  hold_to_confirm_button: 
+  expansion_tile_card: 
+  expandable: 
+  google_maps_flutter: 
+  location: 
+  flutter_gemini: 
+  custom_floating_action_button: 
+  # flutter_chat_ui: ^1.6.12
+
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.13.1"
+
+  flutter_lints: ^3.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/loading.json
+    - assets/sos-send.json
+    - assets/sending.json
+    - assets/supplyDrop.png
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #

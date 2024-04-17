@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99783045774",
+    "project_id": "disaster-management-93435",
+    "storage_bucket": "disaster-management-93435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99783045774:android:4fdc5848d49a8c434a0fdf",
+        "android_client_info": {
+          "package_name": "me.ez.haath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgUoU-vXHzsuw656vcxAeKYnQUPcdCfRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
