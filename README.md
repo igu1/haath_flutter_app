@@ -1,16 +1,35 @@
-# disaster_management_app
+#  Disaster Management App   
+*A Hackathon Project™ (aka 24 hours of chaos)* when i am 1st year student
 
-A new Flutter project.
+## What is this?  
+This is supposed to be a **super cool disaster management app** — you know, alerts, SOS requests, helping people without the internet, saving the world, etc.  
 
-## Getting Started
+…Except we ran out of time. ⏳  
+So what you’re looking at is basically the **skeleton of greatness**.  
 
-This project is a starting point for a Flutter application.
+## The Real Villain   
+This project wasn’t destroyed by lack of ideas.  
+It wasn’t destroyed by sleep deprivation.  
+It was destroyed by… **Gradle.**  
 
-A few resources to get you started if this is your first Flutter project:
+Yes, a Gradle issue blocked all of us for HOURS.  
+Even the *judge of the hackathon* tried to fix it — and failed.  
+Legend says, if i run `flutter run` today, i’ll still see Gradle laughing.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features (in theory )  
+-  Send disaster alerts to users  
+-  Request help even without internet (yeah, that was the idea…)  
+-  Maybe a map? (if we had the time)  
+-  Bugs are not features, but you’ll find them anyway  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features (in reality )  
+- A Flutter project that compiles (hopefully… if Gradle allows it).  
+- Some UI sprinkled here and there.  
+- A dream of what could’ve been.  
+
+## Installation  
+```bash
+git clone https://github.com/yourusername/disaster_management_app.git  
+cd disaster_management_app  
+flutter pub get  
+flutter run  
